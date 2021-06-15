@@ -6,3 +6,6 @@ git add .
 
 # Crear commit con su mensaje
 git commit -m "Mensaje"
+
+# Agregar remoto creado en GitHub (Única vez, ejemplo: )
+git remote add origin https://github.com/GustavoR0dr1gu3z/Santander_BEDU_FRONT.git
