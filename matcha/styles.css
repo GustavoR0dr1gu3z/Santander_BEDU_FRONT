@@ -1,5 +1,7 @@
 body{
-    color: #fffbf7;
+    background-color: #fffbf7;
+    background-image: url('https://image.freepik.com/vector-gratis/fondo-escenario-luces-neon_23-2148300642.jpg');
+    color: white;
 }
 
 h1,h2,h3,h4,h5,h6{
