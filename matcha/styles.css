@@ -1,23 +1,18 @@
-h1{
-    color:aqua;
+body{
+    color: #fffbf7;
 }
 
-h2{
-    color: red;
+h1,h2,h3,h4,h5,h6{
+    color: #46484c;
+    background: whitesmoke;
+    font-family: Arial;
 }
 
-h3{
-    color: fuchsia;
+p{
+    color: #8b8b8bcc;
 }
 
-h4{
-    color: grey
-}
-
-h5{
-    color:hotpink;
-}
-
-h6{
-    color: tomato;
+button{
+    color: #fff;
+    background: #025157;
 }
