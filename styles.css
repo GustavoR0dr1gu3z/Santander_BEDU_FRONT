@@ -24,7 +24,7 @@ button{
     margin-left: 20px;
     margin-right: 20px;
     font-size: 0;
-    line-height: 45;
+    line-height: 45px;
 }
 
 /*Display: Aqui, las etiquetas li, las coloca en una línea*/
@@ -40,7 +40,6 @@ li{
     vertical-align: middle;
     height: 100%;
     line-height: 45px;
-
 }
 
 /*La suma de los width debe dar 100% contando los espacios entre elementos*/
@@ -52,7 +51,7 @@ li{
 .navbar{
     width: 70%;
     text-align: center;
-    color: red;
+    color: green;
 }
 
 .actions{
