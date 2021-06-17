@@ -26,9 +26,11 @@ button {
     margin-left: 20px;
     margin-right: 20px;
     */
-    margin: 40px 20px 0 20px;
+    margin: 45px 25px 0 25px;
     font-size: 0;
     line-height: 45px;
+
+
 }
 
 
@@ -48,12 +50,28 @@ button {
     width: 70%;
     text-align: left;
     color: red;
+    font-family: sans-serif;
+    color: #025157;
+    word-spacing: 25px;
 }
 
 .actions {
     width: 15%;
     text-align: right;
     font-size: 14px;
+    
+}
+
+.actions > a {
+    color: #67b54b;
+}
+
+.actions > button{
+    color: white;
+    background: #67b54b;
+    padding: 12px 14px 12px 14px;
+    border-radius: 5px;
+
 }
 
 /*Display: Aqui, las etiquetas li, las coloca en una línea*/
