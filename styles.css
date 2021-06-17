@@ -24,3 +24,13 @@ button{
     margin-left: 20px;
     margin-right: 20px;
 }
+
+/*Display: Aqui, las etiquetas li, las coloca en una línea*/
+li{
+    display: inline;
+}
+
+/*Todos los hijos que tenga header, les de el diseño correspondiente*/
+.header > * {
+    display: inline-block;
+}
