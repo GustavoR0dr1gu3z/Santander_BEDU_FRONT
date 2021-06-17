@@ -34,3 +34,8 @@ li{
 .header > * {
     display: inline-block;
 }
+
+/*Tomar nuestra imagen*/
+.logo{
+    width: 15%; /*Tome el 15% de mi pantalla*/
+}
