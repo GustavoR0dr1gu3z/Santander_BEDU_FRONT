@@ -14,21 +14,24 @@ p{
     color: #8b8b8bcc;
 }
 
-button{
+button {
     color: #fff;
     background: #025157;
 }
 
-.header{
+.header {
+    /*
     margin-top: 40px;
     margin-left: 20px;
     margin-right: 20px;
+    */
+    margin: 40px 20px 0 20px;
     font-size: 0;
     line-height: 45px;
 }
 
 /*Display: Aqui, las etiquetas li, las coloca en una línea*/
-li{
+li {
     display: inline;
 }
 
@@ -44,17 +47,17 @@ li{
 
 /*La suma de los width debe dar 100% contando los espacios entre elementos*/
 /*Tomar nuestra imagen*/
-.logo{
+.logo {
     width: 15%; /*Tome el 15% de mi pantalla*/
 }
 
-.navbar{
+.navbar {
     width: 70%;
     text-align: center;
-    color: green;
+    color: white;
 }
 
-.actions{
+.actions {
     width: 15%;
     text-align: right;
     font-size: 14px;
