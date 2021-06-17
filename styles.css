@@ -35,7 +35,16 @@ li{
     display: inline-block;
 }
 
+/*La suma de los width debe dar 100% contando los espacios entre elementos*/
 /*Tomar nuestra imagen*/
 .logo{
     width: 15%; /*Tome el 15% de mi pantalla*/
+}
+
+.navbar{
+    width: 70%;
+}
+
+.actions{
+    width: 15%;
 }
