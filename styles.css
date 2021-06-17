@@ -23,6 +23,8 @@ button{
     margin-top: 40px;
     margin-left: 20px;
     margin-right: 20px;
+    font-size: 0;
+    line-height: 45;
 }
 
 /*Display: Aqui, las etiquetas li, las coloca en una línea*/
@@ -33,6 +35,12 @@ li{
 /*Todos los hijos que tenga header, les de el diseño correspondiente*/
 .header > * {
     display: inline-block;
+    /*Le damos tamaño de letra en 16%*/
+    font-size: 16px;
+    vertical-align: niddle;
+    height: 100%;
+    line-height: 45%;
+
 }
 
 /*La suma de los width debe dar 100% contando los espacios entre elementos*/
@@ -43,8 +51,12 @@ li{
 
 .navbar{
     width: 70%;
+    text-align: center;
+    color: red;
 }
 
 .actions{
     width: 15%;
+    text-align: right;
+    font-size: 14px;
 }
