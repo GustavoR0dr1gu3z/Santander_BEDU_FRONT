@@ -8,6 +8,7 @@ h1,h2,h3,h4,h5,h6{
     color: #46484c;
     background: whitesmoke;
     font-family: Arial;
+    text-align: center;
 }
 
 p{
