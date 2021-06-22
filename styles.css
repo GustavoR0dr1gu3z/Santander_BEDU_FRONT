@@ -125,7 +125,10 @@ li {
     padding-right: 30px;
 }
 
-.header{
+.header2{
     position: fixed;
     background-color: white;
+    top: 0;
+    right: 0;
+    left: 0;
 }
