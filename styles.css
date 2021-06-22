@@ -120,3 +120,7 @@ li {
     /*Centrar elementos*/
     align-items: center;
 }
+
+.videoo > video{
+    padding-right: 30px;
+}
