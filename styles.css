@@ -86,6 +86,13 @@ li {
     width: 15%; /*Tome el 15% de mi pantalla*/
 }
 
+.section{
+    display: flex;
+}
+
+.articulo{
+
+}
 .articulo > h2{
     font-size: 40px;
     line-height: 48px;
@@ -106,4 +113,8 @@ li {
 .articulo > form p{
     color: #025157;
     margin-right: 18px;
+}
+
+.videoo{
+    display: flex;
 }
