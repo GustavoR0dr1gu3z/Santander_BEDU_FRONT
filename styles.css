@@ -114,4 +114,7 @@ li {
 
 .videoo{
     display: flex;
+    width: 70%;
+    /*Arriba, Abajo: 100px, Izquierda Derecha: Automatico*/
+    margin: 100px auto;
 }
