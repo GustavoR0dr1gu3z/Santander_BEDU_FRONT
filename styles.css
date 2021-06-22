@@ -86,3 +86,24 @@ li {
     width: 15%; /*Tome el 15% de mi pantalla*/
 }
 
+.articulo > h2{
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+}
+
+.articulo > p{
+    color: #343434;
+    line-height: 1.5;
+    margin-bottom: 20px;
+
+}
+
+.articulo > form{
+    display: flex;
+}
+
+.articulo > form p{
+    color: #025157;
+    margin-right: 18px;
+}
