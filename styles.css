@@ -171,7 +171,7 @@ li {
     font-size: 18px;
     margin-left: 300px;
 }
-
+/*TAMAÑO DE LA TARJETA*/
 .tarjeta > .card{
     flex-direction: column;
     align-items: center;
@@ -190,6 +190,8 @@ li {
     border-top-right-radius: 10px;
 }
 
+
+/*CIRCULO*/
 #circulo {
     width: 90px;
     height: 90px;
@@ -200,6 +202,7 @@ li {
     left:1120px;
 }
 
+/*LOGO DE EVERYL*/
 .tarjeta > .card > .foto > .man > div > img {
     position: absolute;
     top:1580px;
