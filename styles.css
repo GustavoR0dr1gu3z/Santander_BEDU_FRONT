@@ -155,3 +155,11 @@ li {
 .tarjeta > .texto > p {
     color: rgb(49, 48, 48);
 }
+
+.tarjeta > .texto > button {
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: "Alegreya", serif;
+    font-size: 18px;
+}
