@@ -140,8 +140,7 @@ li {
 /*TARJETA*/
 .tarjeta{
     background-color: #a1d683;
-    display: flex;
-    margin: 100px auto;
+    display: flex;    
 }
 
 .tarjeta > .texto > img {
@@ -166,12 +165,14 @@ li {
     font-size: 18px;
 }
 
-.tarjeta > .foto{
-    padding-left: 80px;
+.tarjeta > .card > .foto{
+    padding-left: 500px;
     padding-top: 50px;
-    border-radius: .25rem;
+    padding-right: 
+
 }
 
-.tarjeta > .foto > .textoFoto {
+.tarjeta > .card > .foto > .textoFoto {
     background-color: white;
+    padding-right: 10px;
 }
