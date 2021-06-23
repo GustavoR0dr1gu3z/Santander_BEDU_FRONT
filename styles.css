@@ -153,6 +153,7 @@ li {
     color: rgb(10, 95, 95);
     font-size: 50px;
     padding-left: 300px;
+    padding-top: 100px;
 }
 
 .tarjeta > .texto > p {
@@ -170,7 +171,7 @@ li {
 }
 
 .tarjeta > .card > .foto{
-    padding-left: 300px;
+    padding-left: 100px;
     padding-top: 50px;
 }
 
