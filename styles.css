@@ -175,7 +175,7 @@ li {
 .tarjeta > .card{
     flex-direction: column;
     align-items: center;
-    margin: 100px 300px 100px 100px;
+    margin: 100px 300px 150px 100px;
     background-color: white;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -247,3 +247,10 @@ li {
     padding-left: 10px;
 }
 
+/*BOTON DE ABAJO DEL LADO DERECHO*/
+.tarjeta > .card > .foto > button{
+    cursor: pointer;
+    margin: 20px 10px 40px 15px;
+    padding: 10px 90px 10px 100px;
+    border-radius: 8px
+}
