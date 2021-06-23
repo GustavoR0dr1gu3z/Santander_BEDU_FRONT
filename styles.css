@@ -189,6 +189,13 @@ li {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
+.tarjeta > .card > .foto > .man > div > img {
+    position: absolute;
+    top:1570px;
+    left:1090px;
+    width: 10%;
+    border:none;
+}
 
 /*TEXTO DE EVERLY*/
 .tarjeta > .card > .foto > .textoFoto {
