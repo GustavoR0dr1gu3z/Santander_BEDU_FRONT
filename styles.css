@@ -189,11 +189,22 @@ li {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
+
+#circulo {
+    width: 90px;
+    height: 90px;
+    background: rgba(241, 239, 82, 0.993);
+    border-radius: 100px;
+    position: absolute;
+    top:1550px;
+    left:1120px;
+}
+
 .tarjeta > .card > .foto > .man > div > img {
     position: absolute;
-    top:1570px;
-    left:1090px;
-    width: 10%;
+    top:1580px;
+    left:1128px;
+    width: 5%;
     border:none;
 }
 
@@ -232,3 +243,4 @@ li {
     padding-right: 50px;
     padding-left: 10px;
 }
+
