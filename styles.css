@@ -141,6 +141,7 @@ li {
 .tarjeta{
     background-color: #a1d683;
     display: flex;
+    margin: 100px auto;
 }
 
 .tarjeta > .texto > img {
@@ -150,6 +151,7 @@ li {
 .tarjeta > .texto > h2{
     font-family: "Alegreya", serif;
     color: rgb(10, 95, 95);
+    font-size: 50px;
 }
 
 .tarjeta > .texto > p {
@@ -158,8 +160,18 @@ li {
 
 .tarjeta > .texto > button {
     cursor: pointer;
-    padding: 15px;
+    padding: 12px;
     border-radius: 10px;
     font-family: "Alegreya", serif;
     font-size: 18px;
+}
+
+.tarjeta > .foto{
+    padding-left: 80px;
+    padding-top: 50px;
+    border-radius: .25rem;
+}
+
+.tarjeta > .foto > .textoFoto {
+    background-color: white;
 }
