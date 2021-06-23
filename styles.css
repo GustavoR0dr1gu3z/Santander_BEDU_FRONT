@@ -145,16 +145,19 @@ li {
 
 .tarjeta > .texto > img {
     width: 500px;
+    padding-left: 300px;
 }
 
 .tarjeta > .texto > h2{
     font-family: "Alegreya", serif;
     color: rgb(10, 95, 95);
     font-size: 50px;
+    padding-left: 300px;
 }
 
 .tarjeta > .texto > p {
     color: rgb(49, 48, 48);
+    padding-left: 300px;
 }
 
 .tarjeta > .texto > button {
@@ -163,10 +166,11 @@ li {
     border-radius: 10px;
     font-family: "Alegreya", serif;
     font-size: 18px;
+    margin-left: 300px;
 }
 
 .tarjeta > .card > .foto{
-    padding-left: 500px;
+    padding-left: 300px;
     padding-top: 50px;
 }
 
