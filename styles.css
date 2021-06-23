@@ -156,11 +156,13 @@ li {
     padding-top: 100px;
 }
 
+/*PARRAFO DEL LADO IZQUIERDO*/
 .tarjeta > .texto > p {
     color: rgb(49, 48, 48);
     padding-left: 300px;
 }
 
+/*BOTON DEL LADO IZQUIERDO*/
 .tarjeta > .texto > button {
     cursor: pointer;
     padding: 12px;
@@ -175,15 +177,19 @@ li {
     padding-top: 50px;    
 }
 
-.tarjeta > .card > .foto > .man > img{
-    
+/*FOTO DEL MAN*/
+.tarjeta > .card > .foto > .man > img{    
     padding-top: 50px;
 }
+
+/*TEXTO DE EVERLY*/
 .tarjeta > .card > .foto > .textoFoto {
     background-color: white;
     padding-right: 10px;
 }
 
+/*PARTE BAJA DE LA TARJETA, CARRITO*/
 .tarjeta > .card > .foto > .shop{
     background-color: white;
+    padding-top: 20px;    
 }
