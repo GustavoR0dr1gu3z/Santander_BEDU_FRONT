@@ -172,9 +172,12 @@ li {
 
 .tarjeta > .card > .foto{
     padding-left: 100px;
-    padding-top: 50px;
+    padding-top: 50px;    
 }
 
+.tarjeta > .card > .foto > .man > img{
+    padding-top: 50px;
+}
 .tarjeta > .card > .foto > .textoFoto {
     background-color: white;
     padding-right: 10px;
