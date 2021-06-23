@@ -176,9 +176,14 @@ li {
 }
 
 .tarjeta > .card > .foto > .man > img{
+    
     padding-top: 50px;
 }
 .tarjeta > .card > .foto > .textoFoto {
     background-color: white;
     padding-right: 10px;
+}
+
+.tarjeta > .card > .foto > .shop{
+    background-color: white;
 }
