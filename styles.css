@@ -141,3 +141,7 @@ li {
 .tarjeta{
     background-color: #a1d683;
 }
+
+.tarjeta > .texto > img {
+    width: 500px;
+}
