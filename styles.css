@@ -140,6 +140,7 @@ li {
 /*TARJETA*/
 .tarjeta{
     background-color: #a1d683;
+    display: flex;
 }
 
 .tarjeta > .texto > img {
