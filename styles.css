@@ -200,6 +200,10 @@ li {
 
 }
 
+.tarjeta > .card > .foto > .textoFoto > h3{
+    color: rgb(10, 95, 95);
+}
+
 /*IMAGEN DEL CARRITO*/
 .tarjeta > .card > .foto > .shop > img{
     width: 10%;
