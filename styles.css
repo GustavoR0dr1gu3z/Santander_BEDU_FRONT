@@ -172,24 +172,35 @@ li {
     margin-left: 300px;
 }
 
-.tarjeta > .card > .foto{
-    padding-left: 100px;
-    padding-top: 50px;    
+.tarjeta > .card{
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 300px 100px 100px;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
+
 
 /*FOTO DEL MAN*/
 .tarjeta > .card > .foto > .man > img{    
-    padding-top: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 /*TEXTO DE EVERLY*/
 .tarjeta > .card > .foto > .textoFoto {
     background-color: white;
-    padding-right: 10px;
+    
 }
 
 /*PARTE BAJA DE LA TARJETA, CARRITO*/
 .tarjeta > .card > .foto > .shop{
     background-color: white;
-    padding-top: 20px;    
+
+}
+
+/*IMAGEN DEL CARRITO*/
+.tarjeta > .card > .foto > .shop > img{
+    width: 10%;
 }
