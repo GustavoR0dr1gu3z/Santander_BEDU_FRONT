@@ -121,8 +121,14 @@ li {
     align-items: center;
 }
 
-.videoo > video{
+.videoo > .vid > video{
+    padding-top: 100px;
     padding-right: 30px;
+}
+
+.videoo > .vid > img{
+    width: 30%;    
+    padding-left: 150px;
 }
 
 .header2{
