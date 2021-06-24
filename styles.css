@@ -273,7 +273,8 @@ li {
     /*OPCION 2*/
     height: 660px;
     grid-template: repeat(2, 1fr) / repeat(2, 1fr);
-    
+    background-color: rgb(22, 87, 80);
+
 }
 
 .feature-art{
@@ -281,4 +282,29 @@ li {
     margin: 10px;
     width: 40%;
     height: 50px;
+    
+    margin: 80px 80px;
+}
+
+#uno{
+    background-color: white;
+    width: 70%;
+    height: 70%;
+}
+#dos{
+    background-color: white;
+    width: 70%;
+    height: 70%;
+}
+
+#tres{
+    background-color: white;
+    width: 70%;
+    height: 70%;
+}
+
+#cuatro{
+    background-color: white;
+    width: 70%;
+    height: 70%;
 }
