@@ -271,39 +271,36 @@ li {
     */
 
     /*OPCION 2*/
-    height: 660px;
-    grid-template: repeat(2, 1fr) / repeat(2, 1fr);
+
+    grid-template: repeat(2, 330px) / repeat(2, 1fr);
     background-color: rgb(22, 87, 80);
 }
 
 .feature-art{
     background-color: rgb(119, 119, 194);
-    margin: 10px;
-    width: 40%;
-    height: 50px;
-    
-    margin: 80px 80px;
+    right: 0;
+    margin: 20px;
 }
 
 #uno{
     background-color: white;
-    width: 70%;
-    height: 70%;
+    width: 60%;
+    height: 60%;
 }
 #dos{
     background-color: white;
-    width: 70%;
-    height: 70%;
+    width: 60%;
+    height: 60%;
 }
 
 #tres{
     background-color: white;
-    width: 70%;
-    height: 70%;
+    width: 60%;
+    height: 60%;
 }
 
 #cuatro{
     background-color: white;
-    width: 70%;
-    height: 70%;
+    width: 60%;
+    height: 60%;
 }
