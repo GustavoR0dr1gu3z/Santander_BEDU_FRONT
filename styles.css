@@ -131,9 +131,31 @@ li {
     flex-direction: column;
 }
 
+.videoo > .articulo > form > .otro > button{
+    cursor: pointer;
+    padding: 6px 20px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    font-size: 25px;
+}
+
+.videoo > .articulo > form > .otro > input{
+
+    padding: 6px 20px;
+    font-size: 25px;
+}
+
+
+.videoo > .articulo > form > .otro > button,input{
+    height: 100%;
+    border-radius: 10px;
+}
+
+
 .videoo > .articulo > form > div > p{
     margin-right: 20px;
-
+    margin-top: 10px;
+    font-size: 30px;
 }
 
 .header2{
