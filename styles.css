@@ -271,9 +271,7 @@ li {
     */
 
     /*OPCION 2*/
-
-    justify-content: center;
-
+    padding: 5% 10%;
     grid-template: repeat(2, 330px) / repeat(2, 1fr);
     background-color: rgb(22, 87, 80);
     
@@ -289,18 +287,10 @@ li {
     margin: 20px;
 }
 
-#uno{
+.features > article{
+    display: flex;
     background-color: white;
-}
-#dos{
-    background-color: white;    
-}
-
-#tres{
-    background-color: white;
-}
-
-#cuatro{
-    background-color: white;
+    margin-left:200px;
+    margin-right: 100px;
 
 }
