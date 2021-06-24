@@ -254,3 +254,7 @@ li {
     padding: 10px 90px 10px 100px;
     border-radius: 8px
 }
+
+.features{
+    display: flex;
+}
