@@ -276,7 +276,6 @@ li {
     background-color: rgb(22, 87, 80);
     
 }
-
 .features > article{
     margin: 0 15px 1rem 15px;
     display: flex;
@@ -284,36 +283,44 @@ li {
     background-color: white;
     border-radius: 6px;
     overflow: hidden;
-
+    flex-direction: row;
 
 }
 
 .features > article > div:first-child{
     background-color: black;
-    
+
 }
 
+/*IMAGEN DEL LADO DERECHO*/
 .features> article > .imagenn{
     background-color:red;
     margin-left: 200px;
 }
+
+/*LOGO LADO IZQUIERDO*/
 .features > article > div > .im{
     width: 20%;
     vertical-align: middle;
     padding: 30px 20px 0 40px;
+    
 }
 
+/*H3 DEL LADO IZQUIERDO*/
 .features > article > div > h3 {
     padding-left: 40px;
     font-size: 30px;
     font-weight: 300;
 }
 
+/*PARRAFO DEL LADO IZQUIERDO*/
 .features > article > div > p {
     padding-left: 40px;
     font-size: 15px;
     font-weight: 400;
 }
+
+/*ANCLA DEL LADO IZQUIERDO*/
 .features > article > div > a {
     padding-left: 40px;
     padding-top: 50px;
@@ -324,11 +331,8 @@ li {
 
 }
 
-.features > article{
-    display: flex;
-    justify-content: center;
-}
 
+/*IMAGEN DEL LADO DERECHO*/
 .features > article > .imagenn > img{
     width: 80%;    
     height: 80%;
