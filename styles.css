@@ -282,7 +282,7 @@ li {
     display: flex;
     align-items: center;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 6px;
     overflow: hidden;
     display: block;
 }
