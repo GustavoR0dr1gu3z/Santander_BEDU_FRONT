@@ -304,9 +304,11 @@ li {
 .features > article > p {
     padding-left: 20px;
     font-size: 15px;
+    font-weight: 400;
 }
 .features > article > a {
     padding-left: 20px;
+    padding-top: 50px;
     font-weight: 600;
     font-size: 18px;
     color: green;
