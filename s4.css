@@ -33,3 +33,18 @@ https://cssbattle.dev/
     height: 50px;
     border-radius: 10px;
 }
+
+
+.main{
+    display: flex;
+}
+
+/*Aplicar al de la posicion 1*/
+.main div:nth-last-of-type(1){
+    flex-grow: 1;
+}
+
+/*Aplicar al de la posicion 4*/
+.main div:nth-last-of-type(4){
+    flex-grow: 1;
+}
