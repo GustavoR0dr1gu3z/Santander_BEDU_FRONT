@@ -285,6 +285,11 @@ li {
 .features > article{
     margin: 0 15px 30px 15px;
     display: flex;
+    align-items: center;
     background-color: white;
+    border-radius: 10px;
+}
 
+.features > article > img{
+    width: 8%;
 }
