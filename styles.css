@@ -297,3 +297,8 @@ li {
     padding-left: 20px;
     font-size: 30px;
 }
+
+.features > article > p {
+    padding-left: 20px;
+    font-size: 15px;
+}
