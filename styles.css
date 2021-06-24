@@ -317,7 +317,6 @@ li {
 /*ANCLA DEL LADO IZQUIERDO*/
 .features > article > div > a {
     padding-left: 40px;
-    padding-top: 50px;
     font-weight: 600;
     font-size: 18px;
     color: green;
