@@ -302,3 +302,10 @@ li {
     padding-left: 20px;
     font-size: 15px;
 }
+.features > article > a {
+    padding-left: 20px;
+    font-size: 18px;
+    color: green;
+    
+}
+
