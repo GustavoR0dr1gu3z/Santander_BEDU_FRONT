@@ -277,34 +277,29 @@ li {
     
 }
 
+
 /*PARA LAS 4 CARTAS*/
 .features > article{
     margin: 0 15px 1rem 15px;
     display: flex;
-    align-items: space-around;
-    background-color: white;
+    background-color: rgb(107, 228, 192);
     border-radius: 6px;
     overflow: hidden;
-    flex-direction: row;
-
 }
 
-.features > article > div:first-child{
-    background-color: black;
-
-}
 
 /*IMAGEN DEL LADO DERECHO*/
 .features> article > .imagenn{
     background-color:red;
-    margin-left: 200px;
+
 }
 
 /*LOGO LADO IZQUIERDO*/
 .features > article > div > .im{
     width: 20%;
     vertical-align: middle;
-    padding: 30px 20px 0 40px;
+    padding: 30px 380px 0 40px;
+    background-color:cornflowerblue;
     
 }
 
@@ -313,6 +308,7 @@ li {
     padding-left: 40px;
     font-size: 30px;
     font-weight: 300;
+    background-color:cornflowerblue;
 }
 
 /*PARRAFO DEL LADO IZQUIERDO*/
@@ -320,6 +316,7 @@ li {
     padding-left: 40px;
     font-size: 15px;
     font-weight: 400;
+    background-color:cornflowerblue;
 }
 
 /*ANCLA DEL LADO IZQUIERDO*/
@@ -330,6 +327,7 @@ li {
     font-size: 18px;
     color: green;
     text-decoration: none;
+    background-color:cornflowerblue;
 
 }
 
