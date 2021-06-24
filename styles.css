@@ -289,7 +289,7 @@ li {
 }
 
 
-.features > article > div > img{
+.features > article > div > .im{
     width: 8%;
     vertical-align: middle;
     padding: 20px 20px 3px 20px;
@@ -316,3 +316,12 @@ li {
 
 }
 
+.features > article{
+    display: flex;
+}
+
+.features > article > .imagenn > img{
+    width: 100%;    
+    height: 100%;
+    margin-left: 110px;
+}
