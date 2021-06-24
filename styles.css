@@ -265,12 +265,19 @@ li {
     /*espacio disponible entre los elementos que tengo
     grid-template-columns: 500px 1fr; */
 
-    grid-template-columns: 1fr 1fr;
+    /* OPCION 1
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2,330px);
+    */
+
+    /*OPCION 2*/
+    height: 660px;
+    grid-template: repeat(2, 1fr) / repeat(2, 1fr);
     
 }
 
 .feature-art{
-    background-color: blue;
+    background-color: rgb(119, 119, 194);
     margin: 10px;
     width: 40%;
     height: 50px;
