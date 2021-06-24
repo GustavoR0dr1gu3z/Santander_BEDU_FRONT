@@ -289,24 +289,24 @@ li {
 }
 
 
-.features > article > img{
+.features > article > div > img{
     width: 8%;
     vertical-align: middle;
     padding: 20px 20px 3px 20px;
 }
 
-.features > article > h3 {
+.features > article > div > h3 {
     padding-left: 20px;
     font-size: 30px;
     font-weight: 300;
 }
 
-.features > article > p {
+.features > article > div > p {
     padding-left: 20px;
     font-size: 15px;
     font-weight: 400;
 }
-.features > article > a {
+.features > article > div > a {
     padding-left: 20px;
     padding-top: 50px;
     font-weight: 600;
