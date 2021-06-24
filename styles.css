@@ -366,3 +366,28 @@ li {
     margin-top: 20px;
     margin-left: 82px;
 }
+
+/*TEXTO DE LA PRIMERA SECCION*/
+.p1{
+    padding-top: 40px;
+
+}
+
+/*H1 PARTE DE ARRIBA*/
+.p1 > h1{
+    padding-left: 600px;
+    font-weight: 1000;
+    color: rgb(10, 95, 95);
+    font-size: 50px;
+}
+
+/*P PARTE DE ARRIBA*/
+.p1 > p{
+    padding-left: 540px;
+    padding-right: 480px;
+    max-width: 60%;
+    color: rgb(79, 77, 77);
+    font-size: 20px;
+    font-weight: 100px;
+    line-height: 1.5;
+}
