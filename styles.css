@@ -278,14 +278,16 @@ li {
 }
 
 .features > article{
-    margin: 0 15px 30px 15px;
+    margin: 0 15px 1rem 15px;
     display: flex;
     align-items: center;
     background-color: white;
     border-radius: 6px;
     overflow: hidden;
     display: block;
+
 }
+
 
 .features > article > img{
     width: 8%;
@@ -296,6 +298,7 @@ li {
 .features > article > h3 {
     padding-left: 20px;
     font-size: 30px;
+    font-weight: 300;
 }
 
 .features > article > p {
@@ -304,8 +307,10 @@ li {
 }
 .features > article > a {
     padding-left: 20px;
+    font-weight: 600;
     font-size: 18px;
     color: green;
-    
+    text-decoration: none;
+
 }
 
