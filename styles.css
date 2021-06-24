@@ -375,7 +375,7 @@ li {
 
 /*H1 PARTE DE ARRIBA*/
 .p1 > h1{
-    padding-left: 600px;
+    text-align: center;
     font-weight: 1000;
     color: rgb(10, 95, 95);
     font-size: 50px;
@@ -383,11 +383,12 @@ li {
 
 /*P PARTE DE ARRIBA*/
 .p1 > p{
-    padding-left: 540px;
+    text-align: center;
+    padding-left: 450px;
     padding-right: 480px;
     max-width: 60%;
     color: rgb(79, 77, 77);
-    font-size: 20px;
-    font-weight: 100px;
+    font-size: 24px;
+    font-weight: 1000px;
     line-height: 1.5;
 }
