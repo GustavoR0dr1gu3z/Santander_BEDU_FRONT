@@ -278,19 +278,13 @@ li {
 }
 
 .feature-art{
-    margin: 0 15px 30px 15px;
-    align-items: center;
-    display: flex;
     background-color: rgb(119, 119, 194);
     overflow: hidden;
-    right: 0;
-    margin: 20px;
 }
 
 .features > article{
+    margin: 0 15px 30px 15px;
     display: flex;
     background-color: white;
-    margin-left:200px;
-    margin-right: 100px;
 
 }
