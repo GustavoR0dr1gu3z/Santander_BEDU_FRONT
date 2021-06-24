@@ -277,19 +277,18 @@ li {
     
 }
 
-.feature-art{
-    background-color: rgb(119, 119, 194);
-    overflow: hidden;
-}
-
 .features > article{
     margin: 0 15px 30px 15px;
     display: flex;
     align-items: center;
     background-color: white;
     border-radius: 10px;
+    overflow: hidden;
+    display: block;
 }
 
 .features > article > img{
     width: 8%;
+    vertical-align: middle;
+    padding: 20px;
 }
