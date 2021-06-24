@@ -3,6 +3,8 @@
     width: 400px;
     height: 400px;
     background-color: blue;
+    /*Invertimos las columnas*/
+    flex-direction: row-reverse;
 }
 
 .container > .item{
