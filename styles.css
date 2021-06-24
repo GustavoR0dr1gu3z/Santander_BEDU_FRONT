@@ -282,24 +282,19 @@ li {
 .features > article{
     margin: 0 15px 1rem 15px;
     display: flex;
-    background-color: rgb(107, 228, 192);
+    background-color: rgb(255, 255, 255);
     border-radius: 6px;
     overflow: hidden;
 }
 
 
-/*IMAGEN DEL LADO DERECHO*/
-.features> article > .imagenn{
-    background-color:red;
-
-}
 
 /*LOGO LADO IZQUIERDO*/
 .features > article > div > .im{
     width: 20%;
     vertical-align: middle;
     padding: 30px 380px 0 40px;
-    background-color:cornflowerblue;
+
     
 }
 
@@ -308,7 +303,7 @@ li {
     padding-left: 40px;
     font-size: 30px;
     font-weight: 300;
-    background-color:cornflowerblue;
+
 }
 
 /*PARRAFO DEL LADO IZQUIERDO*/
@@ -316,7 +311,7 @@ li {
     padding-left: 40px;
     font-size: 15px;
     font-weight: 400;
-    background-color:cornflowerblue;
+
 }
 
 /*ANCLA DEL LADO IZQUIERDO*/
@@ -327,7 +322,7 @@ li {
     font-size: 18px;
     color: green;
     text-decoration: none;
-    background-color:cornflowerblue;
+
 
 }
 
@@ -337,5 +332,5 @@ li {
     width: 80%;    
     height: 80%;
     margin-top: 20px;
-    margin-left: 78px;
+    margin-left: 82px;
 }
