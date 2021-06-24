@@ -107,11 +107,6 @@ li {
     display: flex;
 }
 
-.articulo > form p{
-    color: #025157;
-    margin-right: 18px;
-}
-
 .videoo{
     display: flex;
     width: 70%;
@@ -129,6 +124,16 @@ li {
 .videoo > .vid > img{
     width: 30%;    
     padding-left: 150px;
+}
+
+.videoo > .articulo > form{
+    display: flex;
+    flex-direction: column;
+}
+
+.videoo > .articulo > form > div > p{
+    margin-right: 20px;
+
 }
 
 .header2{
