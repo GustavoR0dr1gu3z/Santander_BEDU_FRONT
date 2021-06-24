@@ -369,12 +369,13 @@ li {
 
 /*TEXTO DE LA PRIMERA SECCION*/
 .p1{
-    padding-top: 40px;
-
+    display: flex;
+    flex-direction: column;
 }
 
 /*H1 PARTE DE ARRIBA*/
 .p1 > h1{
+    padding-top: 40px;
     text-align: center;
     font-weight: 1000;
     color: rgb(10, 95, 95);
