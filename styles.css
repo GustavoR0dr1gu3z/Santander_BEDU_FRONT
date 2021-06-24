@@ -276,6 +276,8 @@ li {
     background-color: rgb(22, 87, 80);
     
 }
+
+/*PARA LAS 4 CARTAS*/
 .features > article{
     margin: 0 15px 1rem 15px;
     display: flex;
