@@ -399,6 +399,18 @@ li {
     color: rgb(54, 181, 54);
 }
 
+.p1 > button{
+    margin-left: 770px;
+    margin-bottom: 50px;
+    margin-top: 5px;
+    font-size: 18px;
+    padding: 15px 25px;
+    border-radius: 10px;
+
+}
+
 .p2{
     display: flex;
+    position: absolute;
+    z-index: 1;
 }
