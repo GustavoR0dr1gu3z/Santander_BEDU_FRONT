@@ -409,8 +409,12 @@ li {
 
 }
 
-.p2{
+.p2 > article > div{
     display: flex;
-    position: absolute;
-    z-index: 1;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.p2 > article > div > img {
+
 }
