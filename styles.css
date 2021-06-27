@@ -463,3 +463,10 @@ li {
     font-weight: 500;
     margin-bottom: 15px;
 }
+
+.p2 article div:nth-child(2) a{
+    text-decoration: none;
+    color: rgb(54, 181, 54);
+    font-size: 20px;
+    margin-bottom: 20px;
+}
