@@ -423,3 +423,8 @@ li {
 .p2 article div img:first-child{
     width: 5%;
 }
+
+/*Selección del segundo hijo*/
+.p2 article div img:nth-child(2){
+    width: 50%;
+}
