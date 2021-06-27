@@ -456,3 +456,10 @@ li {
     font-size: 30px;
     line-height: 60px;
 }
+
+.p2 article div:nth-child(2) p{
+    font-size: 20px;
+    color: #2c2f37;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
