@@ -428,6 +428,7 @@ li {
 /*Selección de todas las imagenes*/
 .p2 article div img{
     position: absolute;
+    padding-bottom: 0;
 }
 
 
@@ -445,5 +446,13 @@ li {
 
 /*Seleccion del segundo hijo: div*/
 .p2 article div:nth-child(2){
-    padding-top: 500px;
+    padding-top: 350px;
+}
+
+.p2 article div:nth-child(2) h1{
+    text-align: center;
+    font-weight: 1000;
+    color: rgb(10, 95, 95);
+    font-size: 30px;
+    line-height: 60px;
 }
