@@ -412,6 +412,7 @@ li {
 
 .p2{
     display: grid;
+    padding: 5% 10%;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     padding-top: 50px;
 }
@@ -419,8 +420,8 @@ li {
 
 /*Cada una de las tarjetas*/
 .p2 > article{
-    margin-left: 100px;
-    margin-right: 10px;
+    margin-left: 18px;
+    margin-right: 7px;
     background-color: white;
     border: 2px solid #c5c3c3;
     border-radius: 10px;
