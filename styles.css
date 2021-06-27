@@ -418,3 +418,8 @@ li {
 .p2{
     display: flex;
 }
+
+/*Logo que está en la izquierda de la imagen*/
+.p2 article div img:first-child{
+    width: 5%;
+}
