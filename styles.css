@@ -450,7 +450,7 @@ li {
 
 /*Seleccion del segundo hijo: div*/
 .p2 article div:nth-child(2){
-    padding-top: 350px;
+    padding: 350px 25px 5px 25px;
 }
 
 .p2 article div:nth-child(2) h1{
@@ -462,7 +462,9 @@ li {
 }
 
 .p2 article div:nth-child(2) p{
+    padding-top: 0;
     font-size: 20px;
+    text-align: justify;
     color: #2c2f37;
     font-weight: 500;
     margin-bottom: 15px;
@@ -470,7 +472,8 @@ li {
 
 .p2 article div:nth-child(2) a{
     text-decoration: none;
+    line-height: 1.4;
     color: rgb(54, 181, 54);
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-top: 500px;
 }
