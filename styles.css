@@ -414,3 +414,7 @@ li {
     flex-direction: column;
     align-items: flex-start;
 }
+
+.p2{
+    display: flex;
+}
