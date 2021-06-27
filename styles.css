@@ -419,12 +419,16 @@ li {
     display: flex;
 }
 
+.p2 article div img{
+    position: absolute;
+}
+
 /*Logo que está en la izquierda de la imagen*/
 .p2 article div img:first-child{
-    width: 5%;
+    width: 2%;
 }
 
 /*Selección del segundo hijo*/
 .p2 article div img:nth-child(2){
-    width: 50%;
+    width: 20%;
 }
