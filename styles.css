@@ -507,6 +507,20 @@ li {
         width: 20%;
     }
 
+    .gato{
+        width: 60%;
+    }
+
+    .videoo{
+        flex-direction: column;
+        justify-content: center;
+        max-width: 90%;
+        padding-left: 90px;
+    }
+
+    .videoo .articulo form .otro button{
+        margin-top: 20px;
+    }
 }
 
 /** dispositivos pequeños en vista landscape (horizontal) */
