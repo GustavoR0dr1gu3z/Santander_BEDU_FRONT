@@ -168,7 +168,7 @@ li {
     z-index: 10;
 }
 
-.form1{
+.publish > .form1{
     margin-top: 10px;
 }
 
@@ -487,13 +487,24 @@ li {
     }
 
     body{
-        padding-top: 90px;    
-        text-align: center;        
+        padding-top: 90px;           
     }
 
     h1{
         font-size: 45px;
         background-color: aquamarine;
+    }
+
+    .banner > img {
+        width: 100%;
+    }
+
+    .publish{
+        display: flex;        
+        flex-direction: column;
+        padding: 10px 10px;
+        text-align: left;
+        width: 10%;
     }
 
 }
