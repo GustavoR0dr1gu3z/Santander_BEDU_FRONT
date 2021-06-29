@@ -481,6 +481,10 @@ li {
 
 /** dispositivos móviles en vista viewport (vertical) */
 @media (max-width: 575px) {
+    body{
+        background-color: red;
+        /*background-image: url('https://image.freepik.com/vector-gratis/fondo-escenario-luces-neon_23-2148300642.jpg');*/
+    }    
 }
 
 /** dispositivos pequeños en vista landscape (horizontal) */
