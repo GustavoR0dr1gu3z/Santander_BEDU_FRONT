@@ -521,6 +521,15 @@ li {
     .videoo .articulo form .otro button{
         margin-top: 20px;
     }
+
+    .features{
+        display: grid;
+        grid-template: repeat(4, 1fr)/1fr;
+    }
+
+    .features > article{
+        width: 100%;
+    }
 }
 
 /** dispositivos pequeños en vista landscape (horizontal) */
