@@ -485,10 +485,17 @@ li {
     .navbar, .actions{
         display: none;
     }
-    
-    h1{
-        font-size: 60px;
+
+    body{
+        padding-top: 90px;    
+        text-align: center;        
     }
+
+    h1{
+        font-size: 45px;
+        
+    }
+
 }
 
 /** dispositivos pequeños en vista landscape (horizontal) */
