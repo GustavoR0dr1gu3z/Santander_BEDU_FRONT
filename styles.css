@@ -46,7 +46,7 @@ button {
     line-height: 45px;
 }
 
-
+/*
 .navbar{
     width: 70%;
     text-align: left;
@@ -55,6 +55,7 @@ button {
     color: #025157;
     word-spacing: 25px;
 }
+*/
 
 .actions {
     width: 15%;
@@ -482,9 +483,10 @@ li {
 
 /** dispositivos móviles en vista viewport (vertical) */
 @media (max-width: 575px) {
-    .navbar, .actions{
+    /*
+    .navbar{
         display: none;
-    }
+    }*/
 
     body{
         padding-top: 90px;           
