@@ -175,6 +175,18 @@ li {
 
 .publish > .form1{
     margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.publish > .form1 > input{
+    margin-right: 80%;
+}
+
+.publish > .form1 >  button{
+    margin-top: 10px;
+    margin-right: 95%;
+    border-radius: 10px;
 }
 
 /*TARJETA*/
