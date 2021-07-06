@@ -14,3 +14,7 @@ git remote add origin https://github.com/GustavoR0dr1gu3z/Santander_BEDU_FRONT.g
 
 # Enviar commits al servidor de GitHub
 git push origin master
+
+
+# Convertir de scss a css
+./node_modules/sass/sass.js --watch ./scss/main.scss output.css 
