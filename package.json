@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GustavoR0dr1gu3z/Santander_BEDU_FRONT/issues"
   },
-  "homepage": "https://github.com/GustavoR0dr1gu3z/Santander_BEDU_FRONT#readme"
+  "homepage": "https://github.com/GustavoR0dr1gu3z/Santander_BEDU_FRONT#readme",
+  "dependencies": {
+    "sass": "^1.35.1"
+  }
 }
