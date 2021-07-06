@@ -1,8 +1,12 @@
 @use 'global' as *;
 
 
-.blogg > h1{
+.blogg{
     background-color: $dark-green-text;
     max-width: unset;
     padding: 5% 10%;
+
+    .title{
+        @extend %base-title;
+    }
 }
