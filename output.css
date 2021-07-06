@@ -1,5 +1,7 @@
 .blogg > h1 {
-  background-color: red;
+  background-color: #ffffffff;
+  max-width: unset;
+  padding: 5% 10%;
 }
 
 /*# sourceMappingURL=output.css.map */
