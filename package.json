@@ -1,0 +1,19 @@
+{
+  "name": "santanderfront",
+  "version": "1.0.0",
+  "description": "# Inicializar proyecto de git git init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoR0dr1gu3z/Santander_BEDU_FRONT.git"
+  },
+  "author": "Gustavo Calzada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoR0dr1gu3z/Santander_BEDU_FRONT/issues"
+  },
+  "homepage": "https://github.com/GustavoR0dr1gu3z/Santander_BEDU_FRONT#readme"
+}
