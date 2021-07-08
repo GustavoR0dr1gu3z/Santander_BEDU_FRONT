@@ -18,3 +18,7 @@ git push origin master
 
 # Convertir de scss a css
 ./node_modules/sass/sass.js --watch ./scss/main.scss output.css 
+
+
+# Link de la página subida a Netlify
+https://upbeat-kalam-1dbdd1.netlify.app/
