@@ -2,11 +2,6 @@
 
 const forms = document.querySelectorAll(".signup-form")
 
-// console.log(forms);
-
-// function suma(a, b) {
-//   return a + b
-// }
 
 const getTemplate = () => {
   return fetch("./template.html")
