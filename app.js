@@ -1,16 +1,5 @@
 // Si es desde windows -> node ./node_modules/sass/sass.js --watch ./scss/main.scss output.css
 
-
-// Variables -----------------------------------------------------------
-
-// var z = 6
-// z = 8
-
-// console.log(z);
-// ------------------------------------------------------------
-
-
-
 const forms = document.querySelectorAll(".signup-form")
 
 // console.log(forms);
